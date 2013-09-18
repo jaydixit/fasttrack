@@ -1,0 +1,105 @@
+/* ::::: http://passets-ec.pinterest.com/css/pinboard_5672a589.css ::::: */
+
+html { background: url('paper.jpg') repeat scroll 0% 0% rgb(247, 245, 245); }
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: 0px none; }
+address, caption, cite, code, dfn, em, strong, th, var { font-style: normal; font-weight: normal; }
+li { list-style: none outside none; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
+input, textarea, select { font-family: inherit; font-size: inherit; font-weight: inherit; resize: none; outline: medium none; }
+body { font-family: "helvetica neue",arial,sans-serif; font-size: 10px; color: rgb(33, 25, 34); }
+em { font-style: italic; }
+strong { font-weight: bold; }
+h2 { padding: 0px 0px 8px; font-size: 2.5em; }
+h1, h2 { letter-spacing: -0.0125em; font-weight: bold; }
+p { margin: 0px 0px 0.8em; line-height: 1.35em; }
+a { font-weight: bold; color: rgb(34, 25, 25); text-decoration: none; outline: medium none; }
+a:hover { color: rgb(203, 32, 39); text-decoration: underline; }
+textarea, input { padding: 5px; line-height: 1em; color: rgb(140, 126, 126); background: none repeat scroll 0% 0% rgb(252, 249, 249); border-width: 1px; border-style: solid; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; border-color: rgb(221, 221, 221) rgb(225, 223, 223) rgb(209, 205, 205); box-shadow: 0px 0px 2px rgba(255, 255, 255, 0.75) inset; }
+textarea:focus, input:focus { background-color: rgb(255, 255, 255); box-shadow: 0px 1px 1px rgba(34, 29, 29, 0.1) inset; }
+.hidden { display: none ! important; }
+.error { font-size: 18px; font-weight: 300; color: rgb(255, 0, 0) ! important; }
+.Button { border: 1px solid transparent; border-radius: 0.3em 0.3em 0.3em 0.3em; box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset; cursor: pointer; display: inline-block; font-family: "helvetica neue",arial,sans-serif; font-weight: bold; line-height: 1em; margin: 0px; padding: 0.45em 0.825em; text-align: center; -moz-transition: all 0.05s ease-in-out 0s ; }
+.Button:focus { outline: medium none; }
+.Button:hover { text-decoration: none; }
+.Button:active { -moz-transition: none 0s ease 0s ; }
+button.Button::-moz-focus-inner { padding: 0px; border: 0px none; }
+.Button.Button11 { border-radius: 3px 3px 3px 3px; font-size: 11px; }
+.Button.Button13 { border-radius: 4px 4px 4px 4px; font-size: 13px; }
+.Button.Button18 { border-radius: 6px 6px 6px 6px; font-size: 18px; }
+.Button.RedButton { background-color: rgb(212, 54, 56); background-image: -moz-linear-gradient(center top , rgb(235, 83, 103), rgb(224, 71, 81) 50%, rgb(222, 64, 74) 50%, rgb(212, 54, 56)); border-color: rgb(145, 1, 1); color: rgb(252, 249, 249); text-shadow: 0px -1px rgba(34, 25, 25, 0.5); }
+.Button.RedButton:hover { background-color: rgb(214, 62, 64); background-image: -moz-linear-gradient(center top , rgb(234, 93, 110), rgb(227, 83, 93) 50%, rgb(224, 74, 84) 50%, rgb(214, 62, 64)); border-color: rgb(173, 3, 3); color: rgb(255, 255, 255); text-shadow: 0px -1px rgba(34, 25, 25, 0.3); }
+.Button.RedButton:active { background-color: rgb(200, 48, 49); background-image: -moz-linear-gradient(center top , rgb(221, 75, 93), rgb(213, 65, 75) 50%, rgb(211, 61, 70) 50%, rgb(200, 48, 49)); border-color: rgb(81, 0, 0); color: rgb(242, 240, 240); text-shadow: 0px -1px rgba(34, 25, 25, 0.6); }
+.Button.RedButton.Button13:hover { box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 6px rgba(235, 82, 82, 0.25); }
+.Button.RedButton.Button13:active { box-shadow: 0px 1px 2px rgba(34, 25, 25, 0.25) inset, 0px 0px 2px rgba(235, 82, 82, 0.35); }
+.Button.RedButton.Button18:hover { box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 10px rgba(235, 82, 82, 0.25); }
+.Button.RedButton.Button18:active { box-shadow: 0px 1px 2px rgba(34, 25, 25, 0.25) inset, 0px 0px 3px rgba(235, 82, 82, 0.35); }
+.Button.WhiteButton { background-color: rgb(240, 237, 237); background-image: -moz-linear-gradient(center top , rgb(253, 250, 251), rgb(249, 247, 247) 50%, rgb(246, 243, 244) 50%, rgb(240, 237, 237)); border-color: rgb(187, 187, 187); color: rgb(82, 77, 77); text-shadow: 0px 1px rgba(255, 255, 255, 0.9); }
+.Button.WhiteButton:hover { background-color: rgb(242, 240, 240); background-image: -moz-linear-gradient(center top , rgb(253, 252, 252), rgb(251, 249, 249) 50%, rgb(247, 245, 246) 50%, rgb(242, 240, 240)); border-color: rgb(195, 195, 195); color: rgb(102, 96, 96); text-shadow: 0px 1px rgb(255, 255, 255); }
+.Button.WhiteButton:active { background-color: rgb(235, 232, 232); background-image: -moz-linear-gradient(center top , rgb(248, 244, 245), rgb(243, 240, 240) 50%, rgb(241, 238, 239) 50%, rgb(235, 232, 232)); border-color: rgb(183, 183, 183); color: rgb(69, 65, 65); text-shadow: 0px 1px rgba(255, 255, 255, 0.8); }
+.Button.WhiteButton.Button11:hover { box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 5px rgba(232, 230, 230, 0.75); }
+.Button.WhiteButton.Button11:active { box-shadow: 0px 1px 2px rgba(34, 25, 25, 0.25) inset, 0px 0px 1px rgba(232, 230, 230, 0.5); }
+.Button.WhiteButton.Button13:hover { box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 6px rgba(232, 230, 230, 0.75); }
+.Button.WhiteButton.Button13:active { box-shadow: 0px 1px 2px rgba(34, 25, 25, 0.25) inset, 0px 0px 2px rgba(232, 230, 230, 0.5); }
+.Button.WhiteButton.Button18:hover { box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 10px rgba(232, 230, 230, 0.75); }
+.Button.WhiteButton.Button18:active { box-shadow: 0px 1px 2px rgba(34, 25, 25, 0.25) inset, 0px 0px 3px rgba(232, 230, 230, 0.5); }
+.Button.WhiteButton.ContrastButton { border: 0px none; box-shadow: 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 0px 1px rgba(140, 126, 126, 0.5); }
+.Button.WhiteButton.ContrastButton:hover { box-shadow: 0px 1px rgba(255, 255, 255, 0.35) inset, 0px 0px 0px 1px rgba(140, 126, 126, 0.5), 0px 1px 2px rgba(35, 24, 24, 0.75); }
+.Button.WhiteButton.ContrastButton:active { box-shadow: 0px 1px 2px rgba(34, 25, 25, 0.25) inset, 0px 0px 0px 1px rgba(140, 126, 126, 0.5), 0px 0px 1px rgba(232, 230, 230, 0.5); }
+.Button.disabled { background: none repeat scroll 0% 0% rgb(242, 240, 240) ! important; border-color: rgb(209, 205, 205) ! important; box-shadow: 0px 1px rgba(255, 255, 255, 0.8), 0px 1px rgba(255, 255, 255, 0.35) inset ! important; color: rgb(209, 205, 205) ! important; cursor: default; text-shadow: 0px -1px rgba(34, 25, 25, 0.01) ! important; }
+.Button.Indicator { border-width: 0px; box-shadow: 0px 0px rgb(255, 255, 255), 0px 1px 3px rgba(34, 25, 25, 0.5); display: block; font-size: 15px; text-align: center; position: fixed; z-index: 4; }
+#Header { position: fixed; z-index: 103; top: 0px; right: 0px; left: 0px; height: 44px; background-color: rgb(250, 247, 247); box-shadow: 0px 1px rgb(255, 255, 255) inset, 0px 1px 3px rgba(34, 25, 25, 0.4); }
+#CategoriesBarPage #Header { position: relative; z-index: 105; box-shadow: 0px 0px transparent; }
+#Pinterest { display: block; position: absolute; width: 100px; height: 26px; top: 9px; left: 50%; margin-left: -50px; background: url('logored.png') repeat scroll 0% 0% transparent; }
+@media not all {
+	#Pinterest { background-color: transparent; background-image: url('logored.2x.png'); background-repeat: repeat; background-attachment: scroll; background-position: 0% 0%; background-clip: border-box; background-origin: padding-box; background-size: 100px 26px; }
+}
+
+.ModalContainer { z-index: 99999; overflow: scroll; }
+.overlay { position: fixed; z-index: 0; top: 0px; right: 0px; bottom: 0px; left: 0px; background: none repeat scroll 0% 0% rgb(255, 255, 255); opacity: 0; -moz-transition: all 0.3s ease-in-out 0s ; }
+.modal { z-index: 2;  padding: 30px 30px 20px 20px; margin-left: 60px; background: none repeat scroll 0% 0% rgb(252, 249, 249); border: 1px solid rgb(247, 245, 245); box-shadow: 0px 2px 5px rgba(34, 25, 25, 0.5); -moz-transition: all 0.3s ease-in-out 0s ; }
+.thin { width: 360px; margin-left: 0px; }
+.wide { width: 550px; margin-left: -275px; }
+.visible .overlay { opacity: 0.95; }
+.modal .header { position: relative; margin: -30px -31px 20px; padding: 18px 31px 8px; background-color: rgb(242, 240, 240); border-bottom: 1px solid rgb(204, 202, 202); }
+.modal .footer.lg { position: relative; margin: 20px -30px -21px; padding: 13px 31px; background-color: rgb(242, 240, 240); border-top: 1px solid rgb(238, 238, 238); }
+.modal h2 { margin: 0px 37px 0px 0px; font-size: 21px; line-height: 1em; color: rgb(140, 126, 126); text-shadow: 0px 1px rgb(255, 255, 255); }
+.modal .close { position: absolute; z-index: 1; top: -1px; right: 0px; bottom: 0px; display: block; width: 57px; background: -moz-linear-gradient(rgb(255, 252, 252), rgb(240, 237, 237)) repeat scroll 0% 0% transparent; border-left: 1px solid rgba(34, 25, 25, 0.15); box-shadow: 0px 1px 2px rgb(255, 255, 255) inset; text-indent: -9999px; }
+.modal .close:hover { background: -moz-linear-gradient(rgb(249, 246, 246), rgb(235, 232, 232)) repeat scroll 0% 0% transparent; }
+.modal .close:active { background: -moz-linear-gradient(rgb(214, 34, 40), rgb(194, 31, 36)) repeat scroll 0% 0% transparent; box-shadow: 0px 1px 1px rgba(34, 25, 25, 0.5) inset, 0px 1px rgb(178, 45, 0); }
+.modal .close strong { display: none; }
+.modal .close span { position: absolute; top: 50%; left: 50%; margin-top: -16px; margin-left: -16px; height: 32px; width: 32px; background: url('close.png') no-repeat scroll -10px -12px transparent; }
+.modal .close:hover span { background-position: -10px -67px; }
+.modal .close:active span { background-position: -10px -122px; }
+.modal .Form p { margin-bottom: 0px; }
+.modal .Form ul { border-top: medium none; }
+.modal.PaddingLess { padding: 0px; border-width: 0px; }
+.modal.PaddingLess.wide { margin-left: -245px; }
+.modal.PaddingLess .header { margin: 0px; }
+
+
+.Form li { display: block; margin-bottom: 18px; font-size: 21px; font-weight: 300; }
+.Form input[type="text"], .Form input[type="password"], .Form textarea { display: inline-block; -moz-box-sizing: border-box; padding: 6px 12px; font-size: 18px; font-weight: 300; line-height: 1.4; color: rgb(34, 25, 25); background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(173, 156, 156); border-radius: 6px 6px 6px 6px; box-shadow: 0px 1px rgba(34, 25, 25, 0.15) inset, 0px 1px rgb(255, 255, 255); -moz-transition: all 0.08s ease-in-out 0s ; }
+.Form textarea { min-height: 90px; }
+.Form label { display: inline-block; line-height: 1.4em; font-size: 18px; }
+.Form input[type="radio"] { float: left; margin-right: 8px; border: medium none; }
+textarea#EmbedHTMLCode { height: 7.5em; }
+.Form input[type="text"]:focus, .Form input[type="password"]:focus, .Form textarea:focus, .Form input.error[type="text"], .Form input.error[type="password"], .Form textarea.error { border-color: rgb(153, 51, 0); box-shadow: 0px 1px rgba(34, 25, 25, 0.15) inset, 0px 1px rgba(255, 255, 255, 0.8), 0px 0px 14px rgba(235, 82, 82, 0.35); }
+.Form li .red { color: rgb(203, 32, 39); }
+.FancyForm li, .FancyContainer { position: relative; }
+.FancyForm input[type="text"], .FancyForm input[type="password"], .FancyForm textarea { position: relative; z-index: 3; display: block; width: 100%; background: none repeat scroll 0% 0% transparent; border: 1px solid rgb(173, 156, 156); border-radius: 6px 6px 6px 6px; box-shadow: 0px 1px rgba(34, 25, 25, 0.15) inset, 0px 1px rgb(255, 255, 255); -moz-transition: all 0.08s ease-in-out 0s ; }
+.FancyForm textarea { min-height: 3.95em; line-height: 1.3; }
+.FancyForm label { position: absolute; z-index: 2; top: 8px; left: 13px; display: block; color: rgb(215, 215, 215); -moz-user-select: none; -moz-transition: all 0.16s ease-in-out 0s ; }
+.FancyForm .fff { position: absolute; z-index: 1; top: 0px; right: 0px; left: 0px; bottom: 0px; background-color: rgb(255, 255, 255); border-radius: 8px 8px 8px 8px; }
+.FancyForm .helper { position: absolute; right: -194px; bottom: 10px; width: 180px; font-size: 13px; line-height: 15px; }
+.FancyForm input[type="text"]:focus + label, .FancyForm input[type="password"]:focus + label, .FancyForm textarea:focus + label { opacity: 0.5; }
+.StaticForm { margin: 36px 0px; font-size: 13px; }
+.StaticForm li { clear: both; margin: 0px; padding: 15px 0px; color: rgb(140, 126, 126); text-shadow: 0px 1px rgba(255, 255, 255, 0.9); border-top: 1px solid rgba(255, 255, 255, 0.7); border-bottom: 1px solid rgba(34, 25, 25, 0.1); float: left; width: 100%; }
+.StaticForm li:last-child { border-bottom: 3px double rgba(34, 25, 25, 0.1); }
+.StaticForm li:after { clear: both; display: block; height: 0px; content: " "; visibility: hidden; }
+.StaticForm label { float: left; width: 150px; padding-top: 7px; vertical-align: top; }
+.StaticForm label.radio { padding-top: 24px; }
+.StaticForm .Right { float: left; }
+.StaticForm input[type="text"], .StaticForm input[type="password"], .StaticForm textarea { min-width: 375px; }
+.StaticForm .error { font-size: 13px; float: left; clear: both; margin-top: 5px; color: rgb(203, 32, 39); }
+.StaticForm .Submit { padding-top: 24px; padding-left: 150px; border-top: 1px solid rgba(255, 255, 255, 0.7); float: left; margin-bottom: 20px; }

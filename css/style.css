@@ -1,0 +1,251 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    color:#444444;
+    font-size:13px;
+    background: #f2f2f2;
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+font-weight: 300;
+text-rendering:optimizeLegibility;
+}
+#content{
+    margin:15px auto;
+    text-align:center;
+    width:1000px;
+    position:relative;
+    height:100%;
+}
+#wrapper{
+    -moz-box-shadow:0px 0px 3px #aaa;
+    -webkit-box-shadow:0px 0px 3px #aaa;
+    box-shadow:0px 0px 3px #aaa;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    border:2px solid #fff;
+    background-color:#f9f9f9;
+    width:1000px;
+    overflow:hidden;
+}
+#steps{
+    width:1000px;
+	/*height:320px;*/
+    overflow:hidden;
+}
+.step{
+    float:left;
+    width:1000px;
+	/*height:320px;*/
+}
+#navigation{
+    height:45px;
+    background-color:#e9e9e9;
+    border-top:1px solid #fff;
+    -moz-border-radius:0px 0px 10px 10px;
+    -webkit-border-bottom-left-radius:10px;
+    -webkit-border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+#navigation ul{
+    list-style:none;
+	float:left;
+	margin-left:22px;
+}
+#navigation ul li{
+	float:left;
+    border-right:1px solid #ccc;
+    border-left:1px solid #ccc;
+    position:relative;
+	margin:0px 2px;
+}
+#navigation ul li a{
+    display:block;
+    height:45px;
+    background-color:#444;
+    color:#777;
+    outline:none;
+    font-weight:bold;
+    text-decoration:none;
+    line-height:45px;
+    padding:0px 20px;
+    border-right:1px solid #fff;
+    border-left:1px solid #fff;
+    background:#f0f0f0;
+    background:
+        -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.09, rgb(240,240,240)),
+        color-stop(0.55, rgb(227,227,227)),
+        color-stop(0.78, rgb(240,240,240))
+        );
+    background:
+        -moz-linear-gradient(
+        center bottom,
+        rgb(240,240,240) 9%,
+        rgb(227,227,227) 55%,
+        rgb(240,240,240) 78%
+        )
+}
+#navigation ul li a:hover,
+#navigation ul li.selected a{
+    background:#d8d8d8;
+    color:#666;
+    text-shadow:1px 1px 1px #fff;
+}
+
+span.checked{
+    background:transparent url(../images/checked.png) no-repeat top left;
+    position:absolute;
+    top:0px;
+    left:1px;
+    width:20px;
+    height:20px;
+}
+span.error{
+    background:transparent url(../images/error.png) no-repeat top left;
+    position:absolute;
+    top:0px;
+    left:1px;
+    width:20px;
+    height:20px;
+}
+#steps form fieldset{
+    border:none;
+    padding-bottom:20px;
+}
+#steps legend{
+    text-align:left;
+    background-color:#f0f0f0;
+    color:#666;
+    font-size:24px;
+    text-shadow:1px 1px 1px #fff;
+    font-weight:bold;
+    float:left;
+    width:990px;
+    padding:5px 0px 5px 10px;
+    margin:10px 0px;
+    border-bottom:1px solid #fff;
+    border-top:1px solid #d9d9d9;
+padding-left:35px;
+
+}
+#steps .cute-box p{
+    float:left;
+    clear:both;
+    margin:5px 0px;
+    background-color:#f4f4f4;
+    border:1px solid #fff;
+    width:400px;
+    padding:10px;
+    margin-left:100px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow:0px 0px 3px #aaa;
+    -webkit-box-shadow:0px 0px 3px #aaa;
+    box-shadow:0px 0px 3px #aaa;
+}
+#steps p label{
+    width:160px;
+    float:left;
+    text-align:right;
+    margin-right:15px;
+    line-height:26px;
+    color:#666;
+    text-shadow:1px 1px 1px #fff;
+    font-weight:bold;
+}
+#steps form input:not([type=radio]),
+#steps form textarea,
+#steps form select{
+    background: #ffffff;
+    border: 1px solid #ddd;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    outline: none;
+    padding: 5px;
+    width: 200px;
+    float:left;
+	color:#E10979;
+	font-size:25px;
+
+}
+#steps form input:focus{
+    -moz-box-shadow:0px 0px 3px #aaa;
+    -webkit-box-shadow:0px 0px 3px #aaa;
+    box-shadow:0px 0px 3px #aaa;
+    background-color:#FFFEEF;
+}
+#steps form p.submit{
+    background:none;
+    border:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+}
+#steps form button {
+	border:none;
+	outline:none;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+    display: block;
+    cursor:pointer;
+    margin: 0px auto;
+    clear:both;
+    padding: 7px 25px;
+    text-shadow: 0 1px 1px #777;
+    font-weight:bold;
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+font-weight: 300;
+text-rendering:optimizeLegibility;
+
+    font-size:22px;
+    -moz-box-shadow:0px 0px 3px #aaa;
+    -webkit-box-shadow:0px 0px 3px #aaa;
+    box-shadow:0px 0px 3px #aaa;
+    background:#4797ED;
+}
+#steps form button:hover {
+    background:#d8d8d8;
+    color:#666;
+    text-shadow:1px 1px 1px #fff;
+}
+
+
+p
+{
+text-align:left;
+}
+
+div.step p
+{
+    font-size:20px;
+padding:20px 25px 20px 35px;
+}
+
+
+
+
+
+.Form input[type="text"], .Form input[type="password"], .Form textarea { display: inline-block; -moz-box-sizing: border-box; padding: 6px 12px; font-size: 18px; font-weight: 300; line-height: 1.4; color: rgb(34, 25, 25); background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(173, 156, 156); border-radius: 6px 6px 6px 6px; box-shadow: 0px 1px rgba(34, 25, 25, 0.15) inset, 0px 1px rgb(255, 255, 255); -moz-transition: all 0.08s ease-in-out 0s ; }
+.Form textarea { min-height: 90px; }
+.Form label { display: inline-block; line-height: 1.4em; font-size: 18px; }
+.Form input[type="radio"] { float: left; margin-right: 8px; border: medium none; }
+textarea#EmbedHTMLCode { height: 7.5em; }
+.Form input[type="text"]:focus, .Form input[type="password"]:focus, .Form textarea:focus, .Form input.error[type="text"], .Form input.error[type="password"], .Form textarea.error { border-color: rgb(153, 51, 0); box-shadow: 0px 1px rgba(34, 25, 25, 0.15) inset, 0px 1px rgba(255, 255, 255, 0.8), 0px 0px 14px rgba(235, 82, 82, 0.35); }
+.Form li .red { color: rgb(203, 32, 39); }
+.FancyForm li, .FancyContainer { position: relative; }
+.FancyForm input[type="text"], .FancyForm input[type="password"], .FancyForm textarea { display: block; width: 100%; background: none repeat scroll 0% 0% transparent; border: 1px solid rgb(173, 156, 156); border-radius: 6px 6px 6px 6px; box-shadow: 0px 1px rgba(34, 25, 25, 0.15) inset, 0px 1px rgb(255, 255, 255); -moz-transition: all 0.08s ease-in-out 0s ; }
+.FancyForm textarea { min-height: 3.95em; line-height: 1.3; }
+.FancyForm label { position: absolute; z-index: 2; top: 8px; left: 13px; display: block; color: rgb(215, 215, 215); -moz-user-select: none; -moz-transition: all 0.16s ease-in-out 0s ; }
+.FancyForm .fff { position: absolute; z-index: 1; top: 0px; right: 0px; left: 0px; bottom: 0px; background-color: rgb(255, 255, 255); border-radius: 8px 8px 8px 8px; }
+.FancyForm .helper { position: absolute; right: -194px; bottom: 10px; width: 180px; font-size: 13px; line-height: 15px; }
+.FancyForm input[type="text"]:focus + label, .FancyForm input[type="password"]:focus + label, .FancyForm textarea:focus + label { opacity: 0.5; }

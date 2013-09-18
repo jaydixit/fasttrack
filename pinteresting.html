@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Fancy Sliding Form with jQuery</title>
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="index.css" media="all">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        <script type="text/javascript" src="sliding.form.js"></script>
+    </head>
+    <style>
+        span.reference{
+            position:fixed;
+            left:5px;
+            top:5px;
+            font-size:10px;
+            text-shadow:1px 1px 1px #fff;
+        }
+        span.reference a{
+            color:#555;
+            text-decoration:none;
+			text-transform:uppercase;
+        }
+        span.reference a:hover{
+            color:#000;
+            
+        }
+        h1{
+            color:#ccc;
+            font-size:36px;
+            text-shadow:1px 1px 1px #fff;
+            padding:20px;
+        }
+    </style>
+    <body>
+        <div>
+            <span class="reference">
+                <a href="http://jaydixit.com/">back to jaydixit.com</a>
+            </span>
+        </div>
+
+
+	
+	<div id="content">
+
+
+	  <h1>Fancy Sliding Form with jQuery</h1>
+            <div id="wrapper">
+         <div id="navigation" style="display:none;">
+                    <ul>
+                        <li class="selected">
+                            <a href="#">Edit</a>
+                        </li>
+                        <li>
+                            <a href="#">Original</a>
+                        </li>
+                        <li>
+                            <a href="#">Final</a>
+                        </li>
+                        <li>
+                            <a href="#">Download</a>
+                        </li>
+
+		      </ul>
+                </div>
+       
+
+	    <div id="steps">
+                        <div class="step">
+                            <legend>Edit</legend>
+<P>
+
+
+
+
+
+    <div class="modal thin">
+
+      
+        <form action="http://pinterest.com/pin/17662623509414860/share/" method="post" class="Form FancyForm">
+            <ul>
+                <li>
+                    <input value="" id="MessageRecipientName" class="ClearOnFocus" name="MessageRecipientName" maxlength="180" type="text">
+                    <label>Recipient Name</label>
+                    <span class="fff"></span>
+                    <span class="helper red"></span>
+                </li>
+                <li>
+                    <input value="" id="MessageRecipientEmail" class="ClearOnFocus" name="MessageRecipientEmail" maxlength="180" type="text">
+                    <label>Recipient Email</label>
+                </li>
+                <li class="optional">
+                    <textarea id="MessageBody" class="ClearOnFocus"
+            name="MessageBody" maxlength="180"></textarea> <label>Message (optional)</label>
+                </li>
+            </ul>
+            <div><button class="SubmitButton Button RedButton
+            Button18" data-form="EmailModal" type="button">Send
+            Email</button></div>
+	       </form>
+
+</DIV>
+			  
+
+			<div class="step">
+                            <legend>Original</legend>
+                            <p>
+                                <label for="name">Full Name</label>
+                                <input id="name" name="name" type="text" AUTOCOMPLETE=OFF />
+                            </p>
+                            <p>
+                                <label for="country">Country</label>
+                                <input id="country" name="country" type="text" AUTOCOMPLETE=OFF />
+                            </p>
+                            <p>
+                                <label for="phone">Phone</label>
+                                <input id="phone" name="phone" placeholder="e.g. +351215555555" type="tel" AUTOCOMPLETE=OFF />
+                            </p>
+                            <p>
+                                <label for="website">Website</label>
+                                <input id="website" name="website" placeholder="e.g. http://www.codrops.com" type="tel" AUTOCOMPLETE=OFF />
+                            </p>
+                        </div>
+                        <div class="step">
+                            <legend>Final</legend>
+                            <p>
+                 blag!           </p>
+                       </div>
+		          <div class="step">
+                            <legend>Download</legend>
+                            <p>
+                 blag!           </p>
+                       </div>
+               </div>
+           </div>
+        </div>
+    </body>
+</html>
