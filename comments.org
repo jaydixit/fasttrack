@@ -1,0 +1,7 @@
+See attached. I edited. 
+
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/jdiffs/jdiffs.css' />
+#+OPTIONS:   H:3 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t 
+#+TITLE: My comments
+
+

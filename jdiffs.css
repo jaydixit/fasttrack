@@ -14,7 +14,7 @@
             color:#000;
             
         }
-        h1{
+        h1,  {
             color:#ccc;
             font-size:36px;
             text-shadow:1px 1px 1px #fff;
@@ -593,9 +593,9 @@ width:300px;
    padding-left:15px;
 margin: 0 30px 0 30px;
    color:#000;
-font-family: 'Permanent Marker', cursive;
+font-family: 'Permanent Marker', Optima, cursive;
 line-height:1;
-font-size:120%;
+font-size:100%;
 text-decoration:none;
 font-style:normal;
 display:block;
@@ -740,7 +740,7 @@ span.error{
     border:none;
     padding-bottom:20px;
 }
-#steps legend{
+#steps legend, .title {
     text-align:left;
     background-color:#f0f0f0;
     color:#666;
@@ -847,7 +847,7 @@ p
 text-align:left;
 }
 
-div.step p
+div.step p, #content p 
 {
     font-size:20px;
 padding:20px 25px 20px 35px;
@@ -957,22 +957,7 @@ text-rendering:optimizeLegibility;
     border:none;
     padding-bottom:20px;
 }
-#steps legend{
-    text-align:left;
-    background-color:#f0f0f0;
-    color:#666;
-    font-size:24px;
-    text-shadow:1px 1px 1px #fff;
-    font-weight:bold;
-    float:left;
-    width:990px;
-    padding:5px 0px 5px 10px;
-    margin:10px 0px;
-    border-bottom:1px solid #fff;
-    border-top:1px solid #d9d9d9;
-padding-left:35px;
 
-}
 #steps .cute-box p{
     float:left;
     clear:both;
@@ -1069,5 +1054,5 @@ div.step p
 padding:20px 25px 20px 35px;
 }
 
-
-
+.title
+{display:none;}

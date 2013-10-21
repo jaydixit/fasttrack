@@ -1,60 +1,47 @@
-
- 
-Top 4 Ways to Capture Event Attendee Photos
- 
-Enter the Matrix! Capture Futuristic Photos with a Camera Array
- 
-At a recent sponsored event, attendees lined up at HP's booth to have their photo taken by a high-tech setup called the FotoZap Camera Array. As each group of guests jumped in the air, 25 professional cameras all fired at the same instant. The resulting image froze the moment in time and rotated it in space.
-
- 
-Watch FotoZap Camera Array Video - freeze time and rotate it
-View the video: the FotoZap Camera Array
- 
-Participants were eager to see themselves in "bullet-time," the same technology used in The Matrix, and to share their image as branded social media. High-tech setups like Camera Arrays draw attention to the sponsor's event footprint and turn an attendee into a brand champion--someone who will share their branded photo on Facebook and talk about their experience with their friends.
-
- 
- Example of Camera Array image
-Click to view animation
- 
-Get info on the best technology for your event
- 
-
-Start Simple! Smart Devices Transform Staff Members into Event Photographers
- 
-With FotoZap installed on a tablet, phone, or connected camera, an event staff member can walk through the <span class="added-text">crowd</span> <strike>crowd,</strike> snapping photos or videos of <span class="added-text">attendees, then</span> <strike>attendees and immediately</strike> deliver a digital copy of the image <span class="added-text">on the spot</span> by typing in the guest's email address, printing a glossy photo, or handing out a card with a unique URL.
-
- 
-Run the FotoZap app on an array of smart devices
- 
-To view their photo online, attendees must first fill out a lead generation form. It's a win-win: attendees get a photo enhanced with branded graphics from the event that they'll want to share with their friends, and you get to build your list.
-
- 
-Try the app with your own branding for free
- 
-
-Get Creative! Transform Photos and Videos with Thousands of Special-Effects Apps
- 
-Want elaborate special effects for your event photos without an elaborate setup? Event staff can apply amazing special effects to captured photos and videos, then use FotoZap to deliver the image to the event attendees.
-
- 
-Watch the video on how to use iOS and Android image apps with FotoZap
- 
-Staff members can alter the image using any photo or video app on iOS or Android, then the FotoZap app brands the image and turns it into shareable social media. Morph two faces into one, create a nostalgic photo, drop a wrecking ball on a car, add attendees into a cartoon, or select from lots of other fun effects.
-
- 
-Learn about creative <span class="added-text">special-effects</span> <strike>special-effect</strike> options
- 
-
-Get Physical! Construct a Scene with Props and a Movie Set
- 
-More and more, event holders are building elaborate physical backdrops, almost like movie sets, rather than relying on lifeless <span class="added-text">green screens.</span> <strike>green-screens.</strike> At one recent event, attendees stood next to a crowd of mannequins holding protest signs. At another, attendees milked a <span class="added-text">full-size cow made of plastic.</span> <strike>full-sized plastic cow.</strike>
-
- 
-Construct a scene with props and a movie set
- 
-Ask us about mixing props and digital effects
- 
-
-Talk to us for more photo capture ideas
- 
-Click on the links above, reply to this email, call me at (949) 429-3030, or fill out this form.
+Volume 1, Issue 1
+OCTOBER 2013
+Inside <span class="added-text">this issue:</span> <strike>This Issue:</strike>
+- Thank you to our law firm part- ners
+- Success <span class="added-text">stories and
+quotes</span> <strike>Stories &
+Quotes</strike>
+- How can you refer a student?
+Immigration Matters
+Welcome to the Immigration Project
+Volunteers of Legal Service (VOLS) launched the Dream Not Deferred program in May 2011 to <strike>offer</strike> support <strike>for</strike> immigrant students <span class="added-text">in pursuing</span> <strike>to pursue</strike> higher education and
+authorized employment. This program, directed by Elizabeta Markuci, <span class="added-text">helps</span> <strike>partners pro bono counsel with</strike> students at high schools across New York <span class="added-text">City by connecting them with qualified attorneys who will represent them pro bono.</span> <strike>City.</strike>
+The <strike>idea for this</strike> project was <span class="added-text">created</span> <strike>formed</strike> after several undocumented students served through our School-based Children's Project <span class="added-text">*regulated</span> <strike>regulated</strike> their immigration status with the help of a <span class="added-text">lawyer* **what does this mean?**. When</span> <strike>lawyer. We recognized a need to expand our services when many of these</strike> students told us they would never have sought legal assistance had a school <span class="added-text">official</span> <strike>staff member</strike> not <span class="added-text">intervened, we realized we needed to expand our services.</span> <strike>intervened; they said they thought nothing could be done.</strike>
+The Dream Not Deferred program is designed to: (1) identify high school students who need legal assistance to <span class="added-text">obtain</span> <strike>obtain,</strike> or <span class="added-text">retain</span> <strike>retain,</strike> lawful immigration status; (2) recruit, <span class="added-text">train,</span> <strike>train</strike> and mentor lawyers to provide legal services to students with viable immigration relief; and (3) provide "know your rights" information to students currently unable to regularize their immigration status.
+VOLS collaborates with <span class="added-text">schools</span> <strike>school partners</strike> to ensure that community outreach is a key component of this project. We provide training for guidance counselors, college <span class="added-text">advisors,</span> <strike>advisors</strike> and other school staff to create awareness about the challenges immigrant students face. We also give presentations to students and parents. <span class="added-text">We have helped countless</span> <strike>As a direct result, several</strike> young people <span class="added-text">to obtain</span> <strike>obtained</strike> legal assistance early enough to regulate their immigration status before graduation—in time to qualify for financial aid for
+college.
+If you wish to refer a <span class="added-text">student</span> <strike>student,</strike> and your school is interested in partnering with VOLS, contact us through our Dream Not Deferred Hotline at: 347-521-5722. <span class="added-text">We</span> <strike>Please note we</strike> are <strike>only</strike> able to provide services <span class="added-text">only</span> to high school students enrolled at New York City schools.
+Volume 1, Issue 1 Page 2
+Success <span class="added-text">stories</span> <strike>Stories</strike> and <span class="added-text">quotes</span> <strike>Quotes</strike>
+I found out about VOLS through my high school principal. When she learned about my undocumented status, she referred me to <strike>seek help from</strike> VOLS. When I came in for my first meeting , I was scared to talk about my situation because it was my first time <span class="added-text">talking to</span> <strike>speaking with</strike> a lawyer and I didn't know what to expect.
+During our meeting, Liz and I discussed my options so I could decide which legal remedy would be best for me. She made me feel comfortable and <span class="added-text">helped</span> <strike>gave</strike> me <strike>the tools I needed to be able to</strike> apply for
+Deferred Action for Childhood Arrivals. After collecting all of my supporting documents, I attended a legal clinic where a volunteer lawyer helped me fill out application forms and file my case. I was nervous about revealing my status to the government and anxious as I waited to see if I was approved or not.
+Thankfully,Iwasapproved. IrecentlygraduatedfromhighschoolandnowIamlookingforwardtofinding agoodjob.Oneofmydreamsistoworkwithkidsinneed.Ihada greatexperienceandIwoulddefinitely
+encourage other kids in my situation to go and get help from VOLS .
+-K.S.
+In April of 2001, Kristen's aunt, a United States citizen, filed a
+family based immigrant visa petition for her brother, Kristen's father. This petition would allow him to apply to become a permanent resident of the United States,
+and his children could also receive derivative benefits until the age of 21. The visa petition was approved, and then placed in a queue. While Kristen's family waited 11
+years before they could move ahead to the next stage in the process,
+Kristen's aunt <span class="added-text">died</span> <strike>died,</strike> and the petition <strike>was</strike> automatically revoked. The
+family sought legal assistance, but were told time and time again <span class="added-text">**by whom?**</span> that they needed to wait for the law to change. Then in 2011, Kristen was screened by VOLS and learned that she and her father had a path to permanent immigration status by requesting "humanitarian reinstatement". Volunteer lawyers were matched to represent Kristen and they successfully reinstated the revoked visa petition. This year, Kristen became a permanent <span class="added-text">resident,</span> <strike>resident</strike> and she is now working <span class="added-text">full time</span> <strike>full-time</strike> at a local government office.
+"Thank you for spending your
+"To catch the reader's attention, place an tiimnteresetingwsenteintcehorquotesfromathnestdory helpingusgain
+here."
+more knowledge on the topic of Deferred Action. All of us are now prepared to confront the issues that affect us....I am more motivated to reach for my goals."
+Student from Sunset Park High School
+Page 3 Immigration Matters
+Welcome to the Immigration Project <span class="added-text">(continued</span> <strike>(Continued</strike> from page 1)
+In the summer of 2012, President Obama announced the introduction of "Deferred Action for Child- hood Arrivals" (DACA), an administrative remedy <span class="added-text">that helps</span> <strike>offering temporary relief from removal for</strike> young people brought to the United States as <span class="added-text">children obtain temporary relief from removal.</span> <strike>children.</strike> Hoping to benefit from the two-year work authorization offered by DACA, many immigrant students have come to our school clinics seeking information and legal assistance. VOLS was able to <span class="added-text">help them, thanks to</span> <strike>serve their needs with</strike> the assistance of our pro bono partners, who hosted and volunteered at legal clinics held thoughout the past year. We wish to express our sincerest gratitude to the following law firms for their contributions to the Dream Not Deferred project:
+Simpson, Thacher & Bartlett ~ Fried, Frank, Harris, Shriver & Jacobson
+Weil, Gotshal & Manges ~ Davis, Polk & Wardwell ~ Cleary, Gottlieb, Steen & Hamilton
+Debevoise & Plimpton ~ Hughes, Hubbard & Reed ~ Winston & Strawn ~ Morrison & Foerster Patterson Belknap Webb & Tyler ~ Proskauer Rose ~ White & Case
+Skadden, Arps, Slate, Meagher & Flom ~ Wilmer, Cutler, Pickering, Hale & Dorr Cravath Swaine & Moore ~ Schiff Hardin ~ Laura Devine & Associates
+Cyrus Mehta & Associates
+DID YOU KNOW? VOLS collaborated with the New Economy Project (formerly <span class="added-text">NEDAP).</span> <strike>NEDAP) .</strike> Eligible students could apply for the NYC DREAMER Loan fund, which provides <span class="added-text">interest-free</span> <strike>interest free</strike> loans to youth who were unable to file a request for DACA because they could not afford the $465 fee.
+<span class="added-text">VOLS'</span>
+<strike>The</strike> mission <strike>of VOLS</strike> is to <strike>develop projects to</strike> provide pro bono civil legal services to <span class="added-text">help</span> <strike>benefit</strike> vulnerable New Yorkers, and to leverage the resources of law firms to serve this population. We identify areas of legal need, create projects to meet those needs, and recruit and train volunteer lawyers to provide legal services. In addition to <span class="added-text">helping</span> young immigrants, VOLS <span class="added-text">serves</span> <strike>projects serve</strike> diverse populations across New York City including children, <span class="added-text">the</span> elderly, claimants denied unemployment insurance benefits, incarcerated mothers, and <span class="added-text">low-income</span> <strike>low income</strike> microentrepreneurs.
